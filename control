@@ -1,0 +1,10 @@
+Package: com.xtm3x.nolabels
+Name: NoLabels
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Remove the springboard icon labels
+Depiction: http://repo.tm3dev.com/depics/nolabels.html
+Maintainer: xTheMaster3x
+Author: xTheMaster3x
+Section: Tweaks
